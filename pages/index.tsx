@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/media-has-caption */
 import { Button, Spinner } from "@nextui-org/react"
 import { useEffect, useMemo, useRef, useState } from "react"
 import { PlayIcon, PauseIcon } from "@heroicons/react/24/solid"
